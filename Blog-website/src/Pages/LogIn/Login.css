@@ -1,0 +1,22 @@
+.maincontainer {
+  height: 580px;
+  display: ruby-text;
+}
+
+.cardcmp {
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  margin-top: 81px;
+  width: 41%;
+  text-align: center;
+}
+
+.input {
+  margin: 0px 25px;
+}
+
+.login {
+  background-image: url("https://e0.pxfuel.com/wallpapers/667/98/desktop-wallpaper-login-background-outlook-login.jpg");
+  background-size: cover;
+}
